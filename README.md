@@ -1,7 +1,7 @@
 ## overview
 This is just a test project where I tried to implement my tiny Nim logging module as a Jai metaprogram
 
-[./screenshot.png]
+![screenshot](./screenshot.png)
 
 Original nim gist: https://gist.github.com/LainLayer/4aa7ce1e47c3486dc6325c20a12958ff
 
